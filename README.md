@@ -4,7 +4,7 @@ Therefore the datasets used in this projects are from kaggle.\
 ->Yelp\
 ->Amazon\
 ->Twitter\
-I had also incoporated Hadoop data cluster and also implemented pipeline processing using spark-python api pyspark for it.\
+I had also incoporated Hadoop data cluster and also implemented pipeline processing using spark-python api pyspark for it.
 We can use different approaches for sentiment analysis like:\
 ->Reinforcement Learning\
 ->Recurrent Neural Networks(Deep Learning Approach) and many more.\
